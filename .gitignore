@@ -11,7 +11,7 @@ dist/
 build/
 
 # Local data and logs
-backend/data/
+apps/api/data/
 *.log
 
 # Environment
